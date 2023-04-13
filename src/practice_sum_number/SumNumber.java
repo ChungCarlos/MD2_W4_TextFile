@@ -1,4 +1,4 @@
-package Practice;
+package practice_sum_number;
 
 import java.io.BufferedReader;
 import java.io.File;
